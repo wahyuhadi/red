@@ -1,0 +1,2 @@
+tiket.com
+key=AKIA
